@@ -12,6 +12,8 @@ import './App.css';
 // good bye world
 
 // testing soft reset
+// testing mixed reset
+
 class App extends Component {
   render() {
     return (
