@@ -3,6 +3,10 @@ import { FormattedMessage, FormattedHTMLMessage } from 'react-intl';
 import logo from './logo.svg';
 import './App.css';
 
+//adds new comment
+
+//another comment
+
 class App extends Component {
   render() {
     return (
@@ -13,7 +17,7 @@ class App extends Component {
             <FormattedMessage 
                 id="app.title"
                 defaultMessage="Welcome to {what}"
-                description="Welcome header on app main page"
+                description="Welcome header on app main page of translations"
                 values={{ what: 'react-intl' }}
             />
           </h1>
