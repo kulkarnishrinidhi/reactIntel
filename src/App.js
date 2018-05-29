@@ -7,6 +7,11 @@ import './App.css';
 
 //another comment
 
+//third comment
+
+// good bye world
+
+// testing soft reset
 class App extends Component {
   render() {
     return (
